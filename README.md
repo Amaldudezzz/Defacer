@@ -1,4 +1,4 @@
-#Tool Coded By DeadShot
+#Tool Coded By Amal 
 
 
 pkg install python
